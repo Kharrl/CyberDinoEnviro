@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 57b1ddcd227134a069d43385eb24e979
+timeCreated: 1490477051
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: FallsFace
+    100002: Pond
+    100004: ToothRock
+    100006: ToothRock1
+    100008: ToothRock10
+    100010: ToothRock11
+    100012: ToothRock12
+    100014: ToothRock13
+    100016: ToothRock14
+    100018: ToothRock15
+    100020: ToothRock16
+    100022: ToothRock17
+    100024: ToothRock5
+    100026: ToothRock6
+    100028: ToothRock7
+    100030: ToothRock8
+    100032: ToothRock9
+    100034: //RootNode
+    400000: FallsFace
+    400002: Pond
+    400004: ToothRock
+    400006: ToothRock1
+    400008: ToothRock10
+    400010: ToothRock11
+    400012: ToothRock12
+    400014: ToothRock13
+    400016: ToothRock14
+    400018: ToothRock15
+    400020: ToothRock16
+    400022: ToothRock17
+    400024: ToothRock5
+    400026: ToothRock6
+    400028: ToothRock7
+    400030: ToothRock8
+    400032: ToothRock9
+    400034: //RootNode
+    2300000: FallsFace
+    2300002: Pond
+    2300004: ToothRock
+    2300006: ToothRock1
+    2300008: ToothRock10
+    2300010: ToothRock11
+    2300012: ToothRock12
+    2300014: ToothRock13
+    2300016: ToothRock14
+    2300018: ToothRock15
+    2300020: ToothRock16
+    2300022: ToothRock17
+    2300024: ToothRock5
+    2300026: ToothRock6
+    2300028: ToothRock7
+    2300030: ToothRock8
+    2300032: ToothRock9
+    3300000: FallsFace
+    3300002: Pond
+    3300004: ToothRock
+    3300006: ToothRock1
+    3300008: ToothRock10
+    3300010: ToothRock11
+    3300012: ToothRock12
+    3300014: ToothRock13
+    3300016: ToothRock14
+    3300018: ToothRock15
+    3300020: ToothRock16
+    3300022: ToothRock17
+    3300024: ToothRock5
+    3300026: ToothRock6
+    3300028: ToothRock7
+    3300030: ToothRock8
+    3300032: ToothRock9
+    4300000: FallsFace
+    4300002: Pond
+    4300004: ToothRock
+    4300006: ToothRock1
+    4300008: ToothRock5
+    4300010: ToothRock6
+    4300012: ToothRock7
+    4300014: ToothRock8
+    4300016: ToothRock9
+    4300018: ToothRock10
+    4300020: ToothRock11
+    4300022: ToothRock12
+    4300024: ToothRock13
+    4300026: ToothRock14
+    4300028: ToothRock15
+    4300030: ToothRock16
+    4300032: ToothRock17
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
