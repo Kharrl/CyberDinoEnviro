@@ -1,16 +1,10 @@
 sceneSetups:
-- path: Assets/Scenes/EnvironmentTeam.unity
-  isLoaded: 1
-  isActive: 0
-- path: Assets/Scenes/Jerome.unity
-  isLoaded: 1
-  isActive: 0
-- path: Assets/Scenes/Justin.unity
-  isLoaded: 1
-  isActive: 0
 - path: Assets/Scenes/Rachel.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Scenes/EnvironmentTeam.unity
+  isLoaded: 1
+  isActive: 0
 - path: Assets/Scenes/Sarah.unity
   isLoaded: 1
   isActive: 0
