@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: b829a58658c4464428667f720c475fe8
+timeCreated: 1490623667
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: building:pCube1
+    100004: building:pCube2
+    100006: building:pCube4
+    100008: building:pCube5
+    100010: building:pCube6
+    100012: building:pCube7
+    100014: building:pCube8
+    100016: building:pCube9
+    100018: building:pCylinder1
+    100020: building:pCylinder10
+    100022: building:pCylinder11
+    100024: building:pCylinder12
+    100026: building:pCylinder13
+    100028: building:pCylinder14
+    100030: building:pCylinder15
+    100032: building:pCylinder16
+    100034: building:pCylinder17
+    100036: building:pCylinder18
+    100038: building:pCylinder19
+    100040: building:pCylinder2
+    100042: building:pCylinder20
+    100044: building:pCylinder21
+    100046: building:pCylinder22
+    100048: building:pCylinder23
+    100050: building:pCylinder25
+    100052: building:pCylinder26
+    100054: building:pCylinder3
+    100056: building:pCylinder4
+    100058: building:pCylinder5
+    100060: building:pCylinder6
+    100062: building:pCylinder7
+    100064: building:pCylinder8
+    100066: building:pCylinder9
+    100068: building:rock:polySurface1
+    100070: building:transform1
+    100072: building:transform10
+    100074: building:transform11
+    100076: building:transform12
+    100078: building:transform13
+    100080: building:transform14
+    100082: building:transform15
+    100084: building:transform16
+    100086: building:transform17
+    100088: building:transform18
+    100090: building:transform19
+    100092: building:transform2
+    100094: building:transform20
+    100096: building:transform21
+    100098: building:transform22
+    100100: building:transform23
+    100102: building:transform24
+    100104: building:transform25
+    100106: building:transform26
+    100108: building:transform27
+    100110: building:transform28
+    100112: building:transform29
+    100114: building:transform3
+    100116: building:transform30
+    100118: building:transform4
+    100120: building:transform5
+    100122: building:transform6
+    100124: building:transform7
+    100126: building:transform8
+    100128: building:transform9
+    400000: //RootNode
+    400002: building:pCube1
+    400004: building:pCube2
+    400006: building:pCube4
+    400008: building:pCube5
+    400010: building:pCube6
+    400012: building:pCube7
+    400014: building:pCube8
+    400016: building:pCube9
+    400018: building:pCylinder1
+    400020: building:pCylinder10
+    400022: building:pCylinder11
+    400024: building:pCylinder12
+    400026: building:pCylinder13
+    400028: building:pCylinder14
+    400030: building:pCylinder15
+    400032: building:pCylinder16
+    400034: building:pCylinder17
+    400036: building:pCylinder18
+    400038: building:pCylinder19
+    400040: building:pCylinder2
+    400042: building:pCylinder20
+    400044: building:pCylinder21
+    400046: building:pCylinder22
+    400048: building:pCylinder23
+    400050: building:pCylinder25
+    400052: building:pCylinder26
+    400054: building:pCylinder3
+    400056: building:pCylinder4
+    400058: building:pCylinder5
+    400060: building:pCylinder6
+    400062: building:pCylinder7
+    400064: building:pCylinder8
+    400066: building:pCylinder9
+    400068: building:rock:polySurface1
+    400070: building:transform1
+    400072: building:transform10
+    400074: building:transform11
+    400076: building:transform12
+    400078: building:transform13
+    400080: building:transform14
+    400082: building:transform15
+    400084: building:transform16
+    400086: building:transform17
+    400088: building:transform18
+    400090: building:transform19
+    400092: building:transform2
+    400094: building:transform20
+    400096: building:transform21
+    400098: building:transform22
+    400100: building:transform23
+    400102: building:transform24
+    400104: building:transform25
+    400106: building:transform26
+    400108: building:transform27
+    400110: building:transform28
+    400112: building:transform29
+    400114: building:transform3
+    400116: building:transform30
+    400118: building:transform4
+    400120: building:transform5
+    400122: building:transform6
+    400124: building:transform7
+    400126: building:transform8
+    400128: building:transform9
+    2300000: building:pCube2
+    2300002: building:pCylinder20
+    2300004: building:pCylinder21
+    2300006: building:pCylinder26
+    3300000: building:pCube2
+    3300002: building:pCylinder20
+    3300004: building:pCylinder21
+    3300006: building:pCylinder26
+    4300000: building:pCube2
+    4300002: building:pCylinder20
+    4300004: building:pCylinder21
+    4300006: building:pCylinder26
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
